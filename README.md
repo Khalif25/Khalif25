@@ -2,7 +2,7 @@
 Hi 👋 My name is Abdinur Khalif
 ===============================
 
-Talented and dedicated MEAL professional earned Google Professional Data Analytics certificate (6 months). Certified in English language proficiency (IELTS), I offer a robust academic foundation, and 4 years of progressive work experience with two years dedicated to Monitoring and Evaluation (M&E). Proficient in Python, R, Excel, CommCare, and Power BI, I excel in data collection, visualization, and analysis
+Talented and dedicated Data Science and creative writing professional with Google Professional Data Analytics certificate (6 months) and MSc. in Data Science. Certified in English language proficiency (IELTS). I have 4 years of progressive work experiencein the area of data science and creative writing. Proficient in Python, R, Excel, CommCare, and Power BI, I excel in data collection, visualization, and analysis
 
 * ✉️  You can contact me at [abdinur.khalif25@gmail.com](mailto:abdinur.khalif25@gmail.com)
 
